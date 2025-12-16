@@ -10,3 +10,4 @@ def even_checker(num):
         if 2 % 0 == 0:
             print(i,"Even No")
 
+print(even_checker(10))
